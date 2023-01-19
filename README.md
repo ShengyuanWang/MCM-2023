@@ -8,5 +8,5 @@ Team Member:
 
 Todo:
 
-- [] Read Repo
-- [] Learn some models
+- [ ] Read Repo
+- [ ] Learn some models
