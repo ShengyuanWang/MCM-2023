@@ -8,8 +8,13 @@ Team Member:
 
 Todo:
 
-- [ ] Read Repo
-- [ ] Learn some models
+- [x] Clean Data
+
+PS:
+- Data已经洗好放在了`Models/data/cleaned_data.csv`, 对应洗数据文件在同文件夹下的`data_clean`, 后续如果需要洗新的数据直接在原有基础上进行修改
+- 
+
+
 
 比赛:
 - 在`Resource`文件夹下放置常用的时间序列模型，分析模型等模版，比赛可以直接用
